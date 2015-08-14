@@ -9,5 +9,9 @@ July 22, have supper with pig and bangbang, then go to buy kitchenware. finally,
 July 23, go to xiaoshan to have supper. got home at 21:30.
 1. swift debug skills:
 http://www.cnblogs.com/daiweilai/p/4421340.html#top
-Building a QR Code Reader in Swift
+
+2.Building a QR Code Reader in Swift
 http://www.cocoachina.com/swift/20150121/10962.html
+
+3.tableviewcontroller
+http://blog.csdn.net/jwzhangjie/article/details/40227553
