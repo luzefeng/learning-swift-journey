@@ -15,3 +15,14 @@ http://www.cocoachina.com/swift/20150121/10962.html
 
 3.tableviewcontroller
 http://blog.csdn.net/jwzhangjie/article/details/40227553
+
+4.swift storyboard 1-2
+http://www.cocoachina.com/swift/20150112/10892.html
+http://www.cocoachina.com/swift/20150114/10924.html
+
+5.swift autolayout 1-2
+http://www.cocoachina.com/swift/20141013/9893.html
+http://www.cocoachina.com/ios/20141014/9908.html
+
+6.delegate
+http://www.cocoachina.com/ios/20140716/9153.html
