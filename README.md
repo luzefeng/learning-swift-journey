@@ -26,3 +26,6 @@ http://www.cocoachina.com/ios/20141014/9908.html
 
 6.delegate
 http://www.cocoachina.com/ios/20140716/9153.html
+
+7.swift cocoachina
+http://www.cocoachina.com/special/swift/
