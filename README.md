@@ -29,3 +29,12 @@ http://www.cocoachina.com/ios/20140716/9153.html
 
 7.swift cocoachina
 http://www.cocoachina.com/special/swift/
+
+8.image cache (SDWebImage更方便)
+http://www.oschina.net/translate/a-lightweight-ios-image-cache
+
+9.ios loading
+http://www.cocoachina.com/bbs/read.php?tid=301262
+
+10.SDIWebImage guide
+http://www.cocoachina.com/ios/20141212/10622.html
