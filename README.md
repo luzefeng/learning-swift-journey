@@ -41,3 +41,6 @@ http://www.cocoachina.com/ios/20141212/10622.html
 
 11.UIAlertController
 http://www.cocoachina.com/ios/20141126/10320.html
+
+12.How To Create an Elastic Animation with Swift
+http://www.cocoachina.com/swift/20150911/13215.html
