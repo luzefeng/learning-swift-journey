@@ -44,3 +44,9 @@ http://www.cocoachina.com/ios/20141126/10320.html
 
 12.How To Create an Elastic Animation with Swift
 http://www.cocoachina.com/swift/20150911/13215.html
+
+13. iOS8 Core Image In Swift：自动改善图像以及内置滤镜的使用
+http://blog.csdn.net/zhangao0086/article/details/39012231
+
+14. 学习Swift中的CoreImage(图形核心编程)
+http://www.cocoachina.com/swift/20140903/9514.html
