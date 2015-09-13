@@ -1,12 +1,6 @@
 # learning-swift-journey
 as a beginner to swift, i write down what i do 
 
-July 21 at 11 pm, i doeen't do my learning because of uncle's invitation to have a meal. Record it.
-
-July 22, have supper with pig and bangbang, then go to buy kitchenware. finally, i got home at 22:00. Record it
-
-
-July 23, go to xiaoshan to have supper. got home at 21:30.
 1. swift debug skills:
 http://www.cnblogs.com/daiweilai/p/4421340.html#top
 
@@ -45,8 +39,8 @@ http://www.cocoachina.com/ios/20141126/10320.html
 12.How To Create an Elastic Animation with Swift
 http://www.cocoachina.com/swift/20150911/13215.html
 
-13. iOS8 Core Image In Swift：自动改善图像以及内置滤镜的使用
+13.iOS8 Core Image In Swift：自动改善图像以及内置滤镜的使用
 http://blog.csdn.net/zhangao0086/article/details/39012231
 
-14. 学习Swift中的CoreImage(图形核心编程)
+14.学习Swift中的CoreImage(图形核心编程)
 http://www.cocoachina.com/swift/20140903/9514.html
