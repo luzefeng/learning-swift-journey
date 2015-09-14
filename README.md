@@ -44,3 +44,6 @@ http://blog.csdn.net/zhangao0086/article/details/39012231
 
 14.学习Swift中的CoreImage(图形核心编程)
 http://www.cocoachina.com/swift/20140903/9514.html
+
+15.UICollectionViews Now Have Easy Reordering
+http://www.cocoachina.com/ios/20150914/13418.html
