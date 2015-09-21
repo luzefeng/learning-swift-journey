@@ -50,3 +50,10 @@ http://www.cocoachina.com/ios/20150914/13418.html
 
 16.SVPullToRefresh
 http://stackoverflow.com/questions/27100541/svpulltorefresh-svinfinitescrolling-in-swift-code
+
+17.exif & ios extension
+http://blog.csdn.net/langya393645864/article/details/18864313
+http://blog.csdn.net/omgle/article/details/6881838
+http://www.cocoachina.com/ios/20140923/9723.html
+http://mobile.51cto.com/iphone-464809.htm
+http://www.cocoachina.com/ios/20150122/10978.html
