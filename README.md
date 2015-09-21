@@ -59,3 +59,6 @@ http://blog.csdn.net/omgle/article/details/6881838
 http://www.cocoachina.com/ios/20140923/9723.html
 http://mobile.51cto.com/iphone-464809.htm
 http://www.cocoachina.com/ios/20150122/10978.html
+
+18.gif player
+http://code4app.com/ios/IOS%E4%B8%AD%E8%A7%A3%E6%9E%90%E5%B9%B6%E6%98%BE%E7%A4%BAGif%E6%96%87%E4%BB%B6/5155735b6803fac31a000000
