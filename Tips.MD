@@ -1,12 +1,12 @@
-1. 引用了cocoapods，achieve出other items
+#1. 引用了cocoapods，achieve出other items
   答：选中pods project，选择build setting中的Deployment，把skip install改为Yes，如果还是不行，选中不行的target，build phases，把Headers中的h文件从public中移到Project中。
   
-2. 自定义返回按钮内容
+#2. 自定义返回按钮内容
 UIBarButtonItem *returnButtonItem = [[UIBarButtonItem alloc] init];
 returnButtonItem.title = @"返回";
 self.navigationItem.backBarButtonItem = returnButtonItem;
 
-3.如何点击uitableview 的HeaderInSection隐藏或展开自section
+#3.如何点击uitableview 的HeaderInSection隐藏或展开自section
 首先定义一个标识符数组，用来表示每个section的展开收起状态
 
 设置每个section的row个数的方法中，加入一个对标识符的判断
@@ -19,7 +19,7 @@ self.navigationItem.backBarButtonItem = returnButtonItem;
 基本流程就这样了
 
 我写的练习代码供参考（没粘贴变量的声明部分，新手，见笑了...）：
-#pragma mark - Other Method
+
 //点击header的方法
 -(void)tapHeader:(UIButton *)sender
 {
@@ -35,7 +35,7 @@ self.navigationItem.backBarButtonItem = returnButtonItem;
     
     [myTableView reloadData];
 }
-#pragma mark - TableView Method
+
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
 
@@ -95,7 +95,7 @@ self.navigationItem.backBarButtonItem = returnButtonItem;
 return cell;
 }
 
-#pragma mark - View lifecycle
+
 
 // Implement loadView to create a view hierarchy programmatically, without using a nib.
 - (void)loadView
@@ -121,3 +121,10 @@ myTableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, 320, 418) styl
     [myTableView release];
 
 }
+
+#4.textview显示边框
+textview.layer.borderColor = UIColor.grayColor.CGColor;
+textview.layer.borderWidth = 5; 
+
+#5.模拟器弹出键盘
+虚拟机设置里面 Hardware - keyboard 内设置了 链接电脑键盘。你可以点击第三个：toggle software keyboard让虚拟机弹出，或者把 connect hardware keyboard 不勾选，这样就能自动弹出虚拟键盘了（不过电脑键盘就输入不了了） 
