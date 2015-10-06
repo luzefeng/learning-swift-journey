@@ -145,3 +145,14 @@ func textView(textView: UITextView, shouldChangeTextInRange range: NSRange, repl
         return true
 }
 还有就是添加tapgesture，点击view隐藏键盘
+
+#7获取string长度和判断string是否为空格
+extension String {
+    
+    // readonly computed property
+    var length: Int {
+        return self.characters.count
+    }
+}
+if self.textView?.text.length == 0 || textView?.text.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet()).length == 0{
+}
