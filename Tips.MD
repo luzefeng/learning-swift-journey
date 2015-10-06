@@ -128,3 +128,20 @@ textview.layer.borderWidth = 5;
 
 #5.模拟器弹出键盘
 虚拟机设置里面 Hardware - keyboard 内设置了 链接电脑键盘。你可以点击第三个：toggle software keyboard让虚拟机弹出，或者把 connect hardware keyboard 不勾选，这样就能自动弹出虚拟键盘了（不过电脑键盘就输入不了了） 
+
+#6.textview和textfield隐藏键盘
+- (BOOL)textFieldShouldReturn:(UITextField *)textField
+{
+    [textField resignFirstResponder];    
+    return YES;
+}
+
+func textView(textView: UITextView, shouldChangeTextInRange range: NSRange, replacementText text: String) -> Bool {
+        if text == "\n"{
+            textView.resignFirstResponder()
+            return false
+        }
+        
+        return true
+}
+还有就是添加tapgesture，点击view隐藏键盘
