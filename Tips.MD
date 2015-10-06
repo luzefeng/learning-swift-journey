@@ -156,3 +156,24 @@ extension String {
 }
 if self.textView?.text.length == 0 || textView?.text.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet()).length == 0{
 }
+
+#8 实现textview的placeholder文字
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    // Do any additional setup after loading the view.
+   
+    label = [[UILabel alloc]initWithFrame:CGRectMake(3, 3, 200, 20)];
+    label.enabled = NO;
+    label.text = @"在此输入反馈意见";
+    label.font =  [UIFont systemFontOfSize:15];
+    label.textColor = [UIColor lightGrayColor];
+    [self.textView addSubview:label];
+}
+//TextView Delegate
+- (void) textViewDidChange:(UITextView *)textView{
+    if ([textView.text length] == 0) {
+        [label setHidden:NO];
+    }else{
+        [label setHidden:YES];
+    }
+}
