@@ -68,3 +68,6 @@ http://blog.csdn.net/et295394330/article/details/48599073
 
 #20 模仿新浪微博客户端
 http://git.oschina.net/jimneylee/SinaMBlogNimbus
+
+#21 UITableViewCell自适应大小(各种场合下的处理)   
+http://www.cocoachina.com/bbs/read.php?tid=325605
