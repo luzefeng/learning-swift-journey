@@ -65,3 +65,6 @@ http://code4app.com/ios/IOS%E4%B8%AD%E8%A7%A3%E6%9E%90%E5%B9%B6%E6%98%BE%E7%A4%B
 
 #19.UICollectionView实现书本翻页布局
 http://blog.csdn.net/et295394330/article/details/48599073
+
+#20 模仿新浪微博客户端
+http://git.oschina.net/jimneylee/SinaMBlogNimbus
