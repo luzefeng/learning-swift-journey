@@ -177,3 +177,8 @@ if self.textView?.text.length == 0 || textView?.text.stringByTrimmingCharactersI
         [label setHidden:YES];
     }
 }
+
+#9 cellforrowatindexpath在滚动时不加载图片，停止时加载图片，省内存
+if self.tableView.dragging == false && self.tableView.decelerating == false{
+  cell.imageView.sd_setImage()
+}
