@@ -71,3 +71,6 @@ http://git.oschina.net/jimneylee/SinaMBlogNimbus
 
 #21 UITableViewCell自适应大小(各种场合下的处理)   
 http://www.cocoachina.com/bbs/read.php?tid=325605
+
+#22 app动画设计
+http://www.cocoachina.com/special/appdesign/
