@@ -80,3 +80,9 @@ http://www.cocoachina.com/swift/20151013/13624.html
 
 #24 Swift之贪婪的UIButton
 http://www.cocoachina.com/swift/20150730/12825.html
+
+#25 用swift实现自动录音器
+http://www.cnblogs.com/dsxniubility/p/4679009.html
+
+#26 iOS使用Charles（青花瓷）抓包并篡改返回数据图文详解
+http://www.cnblogs.com/dsxniubility/p/4621314.html
