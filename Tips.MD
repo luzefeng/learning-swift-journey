@@ -182,3 +182,32 @@ if self.textView?.text.length == 0 || textView?.text.stringByTrimmingCharactersI
 if self.tableView.dragging == false && self.tableView.decelerating == false{
   cell.imageView.sd_setImage()
 }
+
+#10 iOS7以后UITextView的那些坑   
+坑1：
+iOS7及以上的版本上，UITextView出现这样的问题：弹出键盘时，没输入任何文字，但是光标位置不是在最上方。
+
+解决方案: iOS7以后新增了一个属性automaticallyAdjustsScrollViewInsets，将其置为NO即可。别忘了加版本判断。
+````swift
+if (IOS7_And_Later) {  
+        self.automaticallyAdjustsScrollViewInsets = NO;  
+    }  
+````
+坑2:
+iOS7及以上的版本上，UITextView输入中文时，在输入多行后，光标有时会上下跳动，输入文字的时候内容有时会往上跳，光标都显示不出来。这个bug坑死好多人啊，特别是做聊天输入框的时候，不得已找一些非正常的方法解决。从网上找的各种解决方案都不行。
+
+解决方案：
+````swift
+- (void)textViewDidChangeSelection:(UITextView *)textView  
+{  
+ 
+    //fix ios7 bug (modified by 老岳).  
+    if (floor(NSFoundationVersionNumber) > NSFoundationVersionNumber_iOS_6_1) {  
+        CGRect r = [textView caretRectForPosition:textView.selectedTextRange.end];  
+        CGFloat caretY =  MAX(r.origin.y - textView.frame.size.height + r.size.height + 8, 0);  
+        if (textView.contentOffset.y < caretY && r.origin.y != INFINITY) {  
+            textView.contentOffset = CGPointMake(0, caretY);  
+        }  
+    }  
+}  
+````
