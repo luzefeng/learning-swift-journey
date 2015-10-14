@@ -77,3 +77,6 @@ http://www.cocoachina.com/special/appdesign/
 
 #23 总结 Swift 中随机数的使用
 http://www.cocoachina.com/swift/20151013/13624.html
+
+#24 Swift之贪婪的UIButton
+http://www.cocoachina.com/swift/20150730/12825.html
