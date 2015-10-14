@@ -211,3 +211,16 @@ iOS7及以上的版本上，UITextView输入中文时，在输入多行后，光
     }  
 }  
 ````
+
+#11 UIButton设置圆角
+````swift
+UIButton *roundBtn = [UIButton buttonWithType:UIButtonTypeCustom];
+
+roundBtn.frame = CGRectMake(100, 100, 50, 50);
+
+roundBtn.backgroundColor = [UIColor redColor
+
+//设置cornerRadius
+
+_roundBtn.layer.cornerRadius = 10.0；
+````
