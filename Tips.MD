@@ -230,4 +230,33 @@ roundBtn.backgroundColor = [UIColor redColor
 //设置cornerRadius
 
 _roundBtn.layer.cornerRadius = 10.0；
+在IB中，当你使用Custom类型的Button时，你可以指定按钮的背景色。但当你运行时按钮就失去了圆角特性，你看到的仅仅是一个方块。因为custombutton没有定义任何属性默认值。你必须自己去定义它们，这就需要使用Core Animation Layer。
+提示：编写代码之前，需要导入QuartzCore框架到工程中，然后#import<QuartzCore/QuartzCore.h>。我会通常会把它放在.pch文件中。
+IB没有干的事情，你只能通过代码来做。例如，如果你想做一个圆角且红色背景的按钮，你需要将按钮链接到你的viewcontroller的出口中，然后在Xcode中通过它的layer属性修改按钮的下列属性。
+ [[button layer] setCornerRadius:8.0f];
+[[button layer] setMasksToBounds:YES];
+[[button layer] setBorderWidth:1.0f];
+上述代码将layer的圆角半径设为8.0，-setMasksToBounds:方法告诉layer将位于它之下的layer都遮盖住。这是必须的，这样会使圆角不被遮，但是这样会导致阴影效果没有，很多网上都给出资料，再添加一个SubLayer，添加阴影。（意思也就是讲mask作为bound的边界，对原来的frame进行裁剪？？）
+ 
+正确的解释：
+Because shadow is an effect done outside the View, and that masksToBounds set to YES will tell the UIView not to draw everything that is outside itself.
+ 
+最后，将border设为1.0，将显示出按钮的边框。默认边框色为黑色，你可以用-setBorderColor:方法修改为其他颜色，参数使用CGColorRef类型（例如[[UIColorgreenColor]CGColor]会显示绿色边框）。
+ 
+两个view设置阴影的效果：注意是view1添加到view2，不要反了
+UIView *view1 = [[UIView alloc] init]; 
+UIView *view2 = [[UIView alloc] init];   
+view1.layer.cornerRadius = 5.0; 
+view1.layer.masksToBounds = YES; 
+view2.layer.cornerRadius = 5.0; 
+view2.layer.shadowColor = [[UIColor blackColor] CGColor]; 
+view2.layer.shadowOpacity = 1.0; 
+view2.layer.shadowRadius = 10.0; 
+view2.layer.shadowOffset = CGSizeMake(0.0f, 0.0f); 
+[view2 addSubview:view1]; 
+[view1 release]; 
+
+
+http://www.2cto.com/kf/201112/112730.html
+http://nachbaur.com/blog/fun-shadow-effects-using-custom-calayer-shadowpaths
 ````
