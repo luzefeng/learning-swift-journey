@@ -92,3 +92,7 @@ http://blog.csdn.net/totogo2010/article/details/8622400
 
 #28 CALayer十则示例
 http://www.cocoachina.com/ios/20150318/11350.html
+
+#29 AppDelegate UIWindow
+http://www.cocoachina.com/bbs/read.php?tid=209348
+http://blog.csdn.net/tianyitianyi1/article/details/7786838
