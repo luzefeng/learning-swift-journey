@@ -96,3 +96,7 @@ http://www.cocoachina.com/ios/20150318/11350.html
 #29 AppDelegate UIWindow
 http://www.cocoachina.com/bbs/read.php?tid=209348
 http://blog.csdn.net/tianyitianyi1/article/details/7786838
+
+#30 CAAnimation CALayer
+http://www.cnblogs.com/wengzilin/p/4250957.html
+http://blog.csdn.net/maylorchao/article/details/42652161
