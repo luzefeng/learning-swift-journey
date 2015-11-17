@@ -106,3 +106,9 @@ http://www.open-open.com/lib/view/open1433732713739.html
 
 #32 cocoacontrols
 https://www.cocoacontrols.com/
+
+#33 深入理解dispatch_queue
+http://www.cocoachina.com/ios/20151117/14225.html
+
+#34 从零开始 Code Review
+http://www.cocoachina.com/ios/20151117/14208.html
