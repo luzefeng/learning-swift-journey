@@ -112,3 +112,12 @@ http://www.cocoachina.com/ios/20151117/14225.html
 
 #34 从零开始 Code Review
 http://www.cocoachina.com/ios/20151117/14208.html
+
+#35 ViewController 瘦身的另一种解决方案
+http://www.cocoachina.com/ios/20151116/14010.html
+
+#36 新手向：五分钟搭建App设置页面_纯代码 + 模型思想(OC)
+http://www.cocoachina.com/ios/20151113/14142.html
+
+#37 聊天程序--(UDP通信，bubble代码）
+http://www.cocoachina.com/bbs/read.php?tid=24324
