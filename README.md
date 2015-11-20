@@ -121,3 +121,9 @@ http://www.cocoachina.com/ios/20151113/14142.html
 
 #37 聊天程序--(UDP通信，bubble代码）
 http://www.cocoachina.com/bbs/read.php?tid=24324
+
+#38 使用大图+脚本，生成各种size的app icon和图片素材
+http://www.cocoachina.com/ios/20151120/14314.html
+
+#39 仿天猫首页刷新效果 导航栏颜色渐变效果
+http://code.cocoachina.com/view/128321
