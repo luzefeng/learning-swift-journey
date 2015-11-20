@@ -127,3 +127,9 @@ http://www.cocoachina.com/ios/20151120/14314.html
 
 #39 仿天猫首页刷新效果 导航栏颜色渐变效果
 http://code.cocoachina.com/view/128321
+
+#39 详述iOS国际化
+http://www.cocoachina.com/ios/20151120/14258.html
+
+#40 详细讲述iOS自定义转场
+http://www.cocoachina.com/ios/20151120/14303.html
