@@ -136,3 +136,6 @@ http://www.cocoachina.com/ios/20151120/14303.html
 
 #41 Grand Central Dispatch 基础教程
 http://www.cocoachina.com/ios/20150609/12072.html
+
+#42 快速搭建一个成熟，强壮的App框架
+http://www.cocoachina.com/ios/20151126/14455.html
