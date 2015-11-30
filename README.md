@@ -142,3 +142,15 @@ http://www.cocoachina.com/ios/20151126/14455.html
 
 #43 wireshark抓取iPhone报文
 http://blog.csdn.net/cuibo1123/article/details/45580811
+
+#44 好文推荐：移动端图片格式调研
+http://www.cocoachina.com/ios/20151130/14478.html
+
+#45 如何让iOS 保持界面流畅？这些技巧你知道吗
+http://www.cocoachina.com/ios/20151130/14477.html
+
+#46 新手引导页面效果
+http://code.cocoachina.com/view/128379
+
+#47 自定义弹窗
+http://code.cocoachina.com/view/128371
