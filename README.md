@@ -154,3 +154,6 @@ http://code.cocoachina.com/view/128379
 
 #47 自定义弹窗
 http://code.cocoachina.com/view/128371
+
+#48 Swift中编写单例的正确方式
+http://www.cocoachina.com/swift/20151207/14584.html
