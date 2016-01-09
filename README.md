@@ -161,5 +161,8 @@ http://www.cocoachina.com/swift/20151207/14584.html
 #49 窥探 Swift 之别具一格的 Struct 和 Class
 http://www.cocoachina.com/swift/20151228/14728.html
 
-#50 一款Loading动画的实现思路
+#50 一款Loading动画的实现思路
 http://www.jianshu.com/p/1c6a2de68753#
+
+#51 R.swift:以一种优雅安全的方式使用资源文件
+http://www.cocoachina.com/swift/20151202/14525.html
