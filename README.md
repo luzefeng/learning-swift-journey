@@ -160,3 +160,6 @@ http://www.cocoachina.com/swift/20151207/14584.html
 
 #49 窥探 Swift 之别具一格的 Struct 和 Class
 http://www.cocoachina.com/swift/20151228/14728.html
+
+#50
+http://www.jianshu.com/p/1c6a2de68753#
