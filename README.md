@@ -166,3 +166,6 @@ http://www.jianshu.com/p/1c6a2de68753#
 
 #51 R.swift:以一种优雅安全的方式使用资源文件
 http://www.cocoachina.com/swift/20151202/14525.html
+
+#52 Swift 字符串速查表
+http://www.cocoachina.com/swift/20151218/14746.html
