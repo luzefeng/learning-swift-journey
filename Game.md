@@ -14,3 +14,10 @@ http://segmentfault.com/a/1190000002400319
 http://blog.csdn.net/kobbbb/article/details/9093601
 #8 SpriteKit编程指南（中文版）  
 http://download.csdn.net/detail/u012628310/8068551
+#9 Swift - 使用atlas图集实现动画效果(SpriteKit游戏开发)
+http://www.hangge.com/blog/cache/detail_732.html
+#10 视频边下载边播放 
+http://code4app.com/ios/%E8%A7%86%E9%A2%91%E8%BE%B9%E4%B8%8B%E8%BD%BD%E8%BE%B9%E6%92%AD%E6%94%BE/5292c381cb7e8445678b5ac2
+http://blog.csdn.net/wxw55/article/details/17557295
+#11 使用Swift和SpriteKit写一个忍者游戏
+http://www.tuicool.com/articles/eYraiq2
