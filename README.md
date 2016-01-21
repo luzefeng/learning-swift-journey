@@ -169,3 +169,6 @@ http://www.cocoachina.com/swift/20151202/14525.html
 
 #52 Swift 字符串速查表
 http://www.cocoachina.com/swift/20151218/14746.html
+
+#53 超全！整理常用的iOS第三方资源
+http://www.cocoachina.com/ios/20160121/14988.html
