@@ -21,3 +21,5 @@ http://code4app.com/ios/%E8%A7%86%E9%A2%91%E8%BE%B9%E4%B8%8B%E8%BD%BD%E8%BE%B9%E
 http://blog.csdn.net/wxw55/article/details/17557295
 #11 使用Swift和SpriteKit写一个忍者游戏
 http://www.tuicool.com/articles/eYraiq2
+#12 宇宙战机游戏SpriteKit的Swift版
+http://code.cocoachina.com/view/129218
