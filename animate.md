@@ -7,3 +7,6 @@ http://www.cocoachina.com/ios/20141022/10005.html
 
 #3 Swift语言iOS开发：CALayer十则示例
 http://www.cocoachina.com/ios/20150318/11350.html
+
+#4 放肆地使用UIBezierPath和CAShapeLayer画各种图形
+http://www.cocoachina.com/ios/20160214/15251.html
