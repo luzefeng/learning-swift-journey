@@ -10,3 +10,6 @@ http://www.cocoachina.com/ios/20150318/11350.html
 
 #4 放肆地使用UIBezierPath和CAShapeLayer画各种图形
 http://www.cocoachina.com/ios/20160214/15251.html
+
+#5 iOS 开发之动画篇 - 从 UIView 动画说起
+http://www.cocoachina.com/ios/20160215/15262.html
