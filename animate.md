@@ -16,3 +16,6 @@ http://www.cocoachina.com/ios/20160215/15262.html
 
 #6 动效解析工厂：Mask 动画
 http://www.cocoachina.com/ios/20160214/15250.html
+
+#7 彻底理解position与anchorPoint
+http://blog.csdn.net/yongyinmg/article/details/37927793
