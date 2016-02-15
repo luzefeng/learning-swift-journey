@@ -13,3 +13,6 @@ http://www.cocoachina.com/ios/20160214/15251.html
 
 #5 iOS 开发之动画篇 - 从 UIView 动画说起
 http://www.cocoachina.com/ios/20160215/15262.html
+
+#6 动效解析工厂：Mask 动画
+http://www.cocoachina.com/ios/20160214/15250.html
