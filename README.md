@@ -175,3 +175,6 @@ http://www.cocoachina.com/ios/20160121/14988.html
 
 #54 MPDownLoadManager
 https://git.oschina.net/wangteng/MPDownLoadManager
+
+#55 高高高仿BiliBili的iOS客户端
+https://git.oschina.net/snowimba/LHBiliBili.git
