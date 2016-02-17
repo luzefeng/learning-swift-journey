@@ -19,3 +19,6 @@ http://www.cocoachina.com/ios/20160214/15250.html
 
 #7 彻底理解position与anchorPoint
 http://blog.csdn.net/yongyinmg/article/details/37927793
+
+#8 学习用MetalPerformanceShaders进行图像处理
+http://www.cocoachina.com/ios/20160217/15298.html
