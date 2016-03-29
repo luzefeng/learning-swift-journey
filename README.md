@@ -148,3 +148,6 @@ https://git.oschina.net/snowimba/LHBiliBili.git
 
 #iOS runtime实战应用：成员变量和属性
 http://www.cocoachina.com/ios/20160324/15768.html
+
+#开源代码：ZYThumbnailTableView--堪比一个小型阅读App
+http://www.cocoachina.com/ios/20160329/15783.html
