@@ -151,3 +151,6 @@ http://www.cocoachina.com/ios/20160324/15768.html
 
 #开源代码：ZYThumbnailTableView--堪比一个小型阅读App
 http://www.cocoachina.com/ios/20160329/15783.html
+
+#如何使用Xcode的Targets来管理开发和生产版本的构建
+http://www.cocoachina.com/ios/20160331/15832.html
